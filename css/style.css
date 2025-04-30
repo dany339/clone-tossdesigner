@@ -24,3 +24,254 @@
   mask-image: -webkit-radial-gradient(white, black);
   backface-visibility: hidden;
 }
+
+.css-isgwpy {
+  height: 0px;
+  display: initial;
+  background-color: transparent;
+}
+
+.css-tie74k {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  width: 100%;
+  height: 60px;
+  background: #000000;
+}
+
+.css-9hauod {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 960px;
+}
+@media (max-width: 992px) and (min-width: 700px) {
+  .css-9hauod {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+}
+.css-rrel8y {
+  width: 24px;
+  height: 24px;
+}
+.css-o4vkhy {
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+  left: 24px;
+}
+.css-jic3bi {
+  display: none;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+  left: 24px;
+}
+@media (max-width: 700px) {
+  .css-jic3bi {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    display: block;
+    -webkit-flex: 0 0 40px;
+    -ms-flex: 0 0 40px;
+    flex: 0 0 40px;
+    width: 40px;
+    height: 60px;
+    background-image: linear-gradient(
+      to right,
+      rgba(15, 19, 25, 0) 18%,
+      black 74%
+    );
+  }
+}
+.css-ou8xsw {
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+.css-l3jwph {
+  display: block;
+  height: 20px;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  border: 0;
+}
+@media (max-width: 700px) {
+  .css-l3jwph {
+    display: none;
+  }
+}
+.css-9qqg40 {
+  margin-right: 0;
+}
+@media (max-width: 700px) {
+  .css-9qqg40 {
+    margin-right: 8px;
+  }
+}
+.css-1g0g5qq {
+  border-bottom: none;
+  margin-right: 0;
+}
+.css-1g0g5qq::after {
+  display: none;
+}
+.css-1g0g5qq .p-tab__indicator {
+  display: none;
+}
+@media (max-width: 700px) {
+  .css-1g0g5qq {
+    margin-right: 8px;
+  }
+}
+.css-87qenk {
+  display: block;
+  word-break: keep-all;
+  -webkit-font-smoothing: antialiased;
+  padding-top: 16px;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  line-height: 1.33;
+  color: #fff;
+  text-align: center;
+  letter-spacing: -0.4px;
+}
+.css-1wf8jf {
+  right: 0;
+}
+.css-1wa565e {
+  display: none;
+  right: 0;
+}
+@media (max-width: 700px) {
+  .css-1wa565e {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    display: block;
+    -webkit-flex: 0 0 40px;
+    -ms-flex: 0 0 40px;
+    flex: 0 0 40px;
+    width: 40px;
+    height: 60px;
+    background-image: linear-gradient(
+      to right,
+      rgba(15, 19, 25, 0) 18%,
+      black 74%
+    );
+  }
+}
+/* css 1e31sfy부터 작성하면 된다~~ */
+
+/* header */
+
+.css-tie74k {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  width: 100%;
+  height: 60px;
+  background: #000;
+}
+
+.css-9hauod {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 960px;
+}
+
+.css-1oz9gym {
+  z-index: 2;
+  display: none;
+}
+
+.css-rrel8y {
+  width: 24px;
+  height: 24px;
+}
+
+.css-jic3bi {
+  display: none;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+  left: 24px;
+}
+
+.css-ou8xsw {
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+
+.css-l3jwph {
+  display: block;
+  height: 20px;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  border: 0;
+}
+
+.css-1g0g5qq {
+  border-bottom: none;
+  margin-right: 0;
+}
+
+.p-tab {
+  position: relative;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  overflow-x: visible;
+  border-bottom: 1px solid #e5e8ed;
+  border-bottom: 1px solid #e5e8eb;
+}
