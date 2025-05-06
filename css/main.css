@@ -457,6 +457,14 @@ a:hover {
   opacity: 0;
 }
 
+.p-tab__indicator {
+  transition: all 0.3s cubic-bezier(0.7, -0.2, 0.69, 0.8);
+  background-color: #191f28;
+  background-color: var(--grey900);
+  border-radius: 1px;
+  height: 2px;
+}
+
 .p-tab::after,
 .p-tab__indicator {
   content: "";
@@ -477,4 +485,19 @@ a:hover {
   border-bottom: 1px solid #e5e8ed;
   scrollbar-width: none;
   -ms-overflow-style: none;
+}
+
+.p-tab__item::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: calc(100% - 8px);
+  height: calc(100% - 8px);
+  transform: translate(-50%, -50%);
+  border-radius: 8px;
+  background-color: rgba(2, 32, 71, 0.05);
+  background-color: var(--greyOpacity100);
+  opacity: 0;
+  transition: opacity 0.2s ease;
 }

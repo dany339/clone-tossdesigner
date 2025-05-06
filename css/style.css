@@ -1753,3 +1753,23 @@ body {
   border-bottom: none;
   margin-right: 0;
 }
+
+.p-tab__item--selected {
+  color: #fff;
+}
+
+.e1qm850g1 > a .ero2dty4 {
+  transition: all 0.5s;
+}
+
+.e1qm850g1 > a:hover .ero2dty4 {
+  transform: translateY(-8px);
+}
+
+.e1qm850g1 > a .ero2dty4 img {
+  transition: all 0.5s;
+  transform: scale(1);
+}
+.e1qm850g1 > a:hover .ero2dty4 img {
+  transform: scale(1.15);
+}
